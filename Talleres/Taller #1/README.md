@@ -25,7 +25,10 @@ Dicho simulador se encuentra disponible para Windows, MacOS y Linux. Consulte la
 
 Para correr el programa:
 
-1. Abra el simulador _Ripes_.
-2. Para cargar el archivo haga clic en `File -> Load Program` y seleccione el archivo `ejercicio.s`.
+1. Abra el simulador _Ripes_. <br> 
+2. Para cargar el archivo haga clic en `File -> Load Program` y seleccione el archivo `ejercicio.s`.<br> 
+![](https://github.com/04esteban04/Arquitectura_de_Computadores_I/blob/main/Talleres/Taller%20%231/Im%C3%A1genes/1.%20Cargar%20archivo.png) 
 3. En la pestaña **_Editor_** podrá revisar el código fuente. Cada  línea del programa tiene su correspondiente comentario con la finalidad de mejorar la legibilidad de este. El valor de la semilla viene por defecto en `0x53` que es el código ASCII de la letra _S_. 
-4. Finalmente, corra el programa haciendo click en el **botón play** que se ubica en la barra superior. Podrá ver los resultados en la tabla de registros o en la pestaña **_Memory_**.
+![](https://github.com/04esteban04/Arquitectura_de_Computadores_I/blob/main/Talleres/Taller%20%231/Im%C3%A1genes/2.%20Editor.png)
+4. Finalmente, corra el programa haciendo click en el botón **play** :arrow_forward: que se ubica en la barra superior. Podrá ver los resultados en la tabla de registros o en la pestaña **_Memory_**. 
+![](https://github.com/04esteban04/Arquitectura_de_Computadores_I/blob/main/Talleres/Taller%20%231/Im%C3%A1genes/3.%20Memory.png)
